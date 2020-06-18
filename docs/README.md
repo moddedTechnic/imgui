@@ -3,9 +3,9 @@ dear imgui
 [![Build Status](https://travis-ci.org/ocornut/imgui.svg?branch=master)](https://travis-ci.org/ocornut/imgui)
 [![Coverity Status](https://scan.coverity.com/projects/4720/badge.svg)](https://scan.coverity.com/projects/4720)
 
-Forked from [TheCherno/imgui](https://github.com/TheCherno/imgui), in turn from [ocornut/imgui](https://github.com/ocornut/imgui) so I could make some _(tiny)_ changes (brace positions in the [premake](https://github.com/moddedTechnic/imgui/blob/master/premake5.lua)) file and similar.
+Forked from [TheCherno/imgui](https://github.com/TheCherno/imgui), in turn from [ocornut/imgui](https://github.com/ocornut/imgui) so I could make some _(tiny)_ changes (brace positions in the [premake](https://github.com/moddedTechnic/imgui/blob/master/premake5.lua) file and similar).
 
-===
+=====
 
 Dear ImGui is a bloat-free graphical user interface library for C++. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline enabled application. It is fast, portable, renderer agnostic and self-contained (no external dependencies).
 
