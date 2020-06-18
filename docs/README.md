@@ -3,16 +3,9 @@ dear imgui
 [![Build Status](https://travis-ci.org/ocornut/imgui.svg?branch=master)](https://travis-ci.org/ocornut/imgui)
 [![Coverity Status](https://scan.coverity.com/projects/4720/badge.svg)](https://scan.coverity.com/projects/4720)
 
-_(This library is free as in freedom, but needs your support to sustain its development. In addition to maintenance and stability there are many desirable features yet to be added. If your company is using dear imgui, please consider reaching out for invoiced financial support. If you are an individual using dear imgui, please consider donating via Patreon or PayPal.)_
+Forked from [TheCherno/imgui](https://github.com/TheCherno/imgui), in turn from [ocornut/imgui](https://github.com/ocornut/imgui) so I could make some _(tiny)_ changes (brace positions in the [premake](https://github.com/moddedTechnic/imgui/blob/master/premake5.lua)) file and similar.
 
-Individuals/hobbyists: support continued maintenance and development via the monthly Patreon:
-<br>&nbsp;&nbsp;[![Patreon](https://raw.githubusercontent.com/wiki/ocornut/imgui/web/patreon_01.png)](http://www.patreon.com/imgui)
-
-Individuals/hobbyists: support continued maintenance and development via PayPal:
-<br>&nbsp;&nbsp;[![PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WGHNC6MBFLZ2S)
-
-Businesses: support continued maintenance and development via support contracts or sponsoring:
-<br>&nbsp;&nbsp;_E-mail: omarcornut at gmail dot com_
+===
 
 Dear ImGui is a bloat-free graphical user interface library for C++. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline enabled application. It is fast, portable, renderer agnostic and self-contained (no external dependencies).
 
