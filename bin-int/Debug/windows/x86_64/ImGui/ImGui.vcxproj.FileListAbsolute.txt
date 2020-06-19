@@ -1,2 +1,0 @@
-D:\Code\Code\C++\Omega\Omega\vendor\imgui\bin\Debug\windows\x86_64\ImGui\ImGui.pdb
-D:\Code\Code\C++\Omega\Omega\vendor\imgui\bin-int\Debug\windows\x86_64\ImGui\ImGui.pdb
